@@ -25,7 +25,7 @@ Webgame
 - keyboard:\
   -Some Keys are hot keys\
   -Space Pauses the game\
-  -Ctrl is 2x speed\
+  -Ctrl is 2x speed
   
  - mouse:\
    -Controls which place you are selecting to show stats and place towers
@@ -34,7 +34,7 @@ Webgame
 -Tutorial level showing basics\
 -As new mechanics are introduced\
   -Game Pauses\
-  -Pop-Ups are used to explain it\
+  -Pop-Ups are used to explain it
  
 ### Player Learning
 TBD
@@ -48,7 +48,7 @@ TBD
 ## About the developer
 -Samuel Unferth\
 -2021 Expected Graduate of RIT Game Design and Development Program\
--Indie developer\
+-Indie developer
 
 
 
