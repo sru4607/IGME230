@@ -40,7 +40,7 @@ Webgame
 TBD
 
 ## Screenshots
-![bloons td3](https://goo.gl/images/YHJdTH)
+![bloons td3](https://www.coolmathgames.com/sites/cmatgame/files/bloons-tower-defense-3.jpg)
 
 ## Other
 TBD
