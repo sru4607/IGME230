@@ -2,7 +2,7 @@
 Space Defence
 
 ## High Concept
-
+Real-Time Strategy
 
 ## Genre
 Tower-Defense
@@ -11,10 +11,13 @@ Tower-Defense
 Webgame
 
 ## Story
-
+You are a human defending the planet earth from invaders, you are the last defense before the armada invades. It is up to you to place your allies, build towers, and destroy enough of the aliens to help humanity survive. 
 
 ## Esthetics
-
+- Cartoonish
+- Set in Space
+- Players are humans
+- Enemies are aliens
 
 ## Gameplay
 
