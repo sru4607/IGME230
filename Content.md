@@ -23,22 +23,24 @@ Webgame
 
 ### Controls
 - keyboard:
-  - WASD
-  - arrows
-  - spacebar
-  - escape for pause/options
+  -Some Keys are hot keys
+  -Space Pauses the game
+  -Ctrl is 2x speed
   
  - mouse:
-
+   -Controls which place you are selecting to show stats and place towers
   
 ### Teaching the game/New user experience aka "Onboarding"
-TBD
+-Tutorial level showing basics
+-As new mechanics are introduced
+  -Game Pauses
+  -Pop-Ups are used to explain it
  
 ### Player Learning
 TBD
 
 ## Screenshots
-![alt text](image url)
+![bloons td3](https://goo.gl/images/YHJdTH)
 
 ## Other
 TBD
@@ -51,3 +53,5 @@ TBD
 
 
 ## References
+-https://en.wikipedia.org/wiki/Tower_defense
+-https://www.coolmathgames.com/0-bloons-tower-defense-3
