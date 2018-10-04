@@ -40,7 +40,7 @@ You are a human defending the planet earth from invaders, you are the last defen
   - Pop-Ups are used to explain it
  
 ### Player Learning
-TBD
+Players will be able to create new startegies as enemies and towers are revealed
 
 ## Screenshots
 ![bloons td3](https://www.coolmathgames.com/sites/cmatgame/files/bloons-tower-defense-3.jpg)
